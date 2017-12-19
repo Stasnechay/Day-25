@@ -1,7 +1,11 @@
+@import  url('https://fonts.googleapis.com/css?family=Lato');
+	
 @font-face {
-	font-family: 'Myriad';
-	src: url('../fonts/myriadregular.otf') format('opentype');
-	font-weight: 800;
-	font-style: normal;
+	font-family: 'Lato', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
+@font-face {
+font-family: 'Playfair Display', serif;
+	
 }
